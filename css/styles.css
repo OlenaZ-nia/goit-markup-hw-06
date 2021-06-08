@@ -846,6 +846,8 @@ img {
 .modal-form-checkbox-policy {
   line-height: 1.71;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .modal-form-checkbox-policy::before {
